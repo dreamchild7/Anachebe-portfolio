@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
         "dev": "nodemon dev",
-        "start": "node index.js"
+        "web": "node index.js"
     },
     "author": "anachebe ikechukwu",
     "license": "ISC",
